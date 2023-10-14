@@ -6,5 +6,5 @@
 ## How to access:
 * When you access the link, you would need to login using BYU-I credentials to be able to access the project.
 * You can login by clicking on the "Your ArcGIS organization's URL" and entering byui in the textbox
-* Here is the image for comparison:
+* Here is the image for comparison: ![image](./loginwithorg.png)
 * It should open a byui login and you should be able to access the story map.
