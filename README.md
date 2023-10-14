@@ -4,19 +4,19 @@ For this project, I decided to learn ArcGIS mapping. I created my own data for t
 
 The purpose of creating this app is to know what landmarks (historical or not) that are in Idaho. This is for people who want to explore what Idhao has to offer.
 
-[Software Demo Video](https://youtu.be/lHGlLiz_mN0){:target="_blank"} 
+[Software Demo Video](https://youtu.be/lHGlLiz_mN0)
 
 # Development Environment
 
 Tools used to develop this app:
-* [ArcGIS online](https://byui.maps.arcgis.com/home/index.html){:target="_blank"} 
+* [ArcGIS online](https://byui.maps.arcgis.com/home/index.html)
 
 I only used the ArcGIS online app and CSV/Excel for the tools for this project.
 
 # Useful Websites
 
-* [Getting Started with ArcGIS online](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/){:target="_blank"} 
-* [Managing Data in ArcGIS online](https://doc.arcgis.com/en/arcgis-online/get-started/get-started-with-data.htm){:target="_blank"} 
+* [Getting Started with ArcGIS online](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
+* [Managing Data in ArcGIS online](https://doc.arcgis.com/en/arcgis-online/get-started/get-started-with-data.htm)
 
 # Future Work
 
